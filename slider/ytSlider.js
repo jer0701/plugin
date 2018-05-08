@@ -1,5 +1,4 @@
-; (function (window, undefined) {
-
+﻿; (function (window, undefined) {
     /*
     $ DOM操作 模拟jquery
    */
